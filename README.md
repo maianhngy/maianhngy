@@ -8,7 +8,6 @@
 **Paris-Dauphine University - PSL** *(2022 - 2025)*  
 🎓 **BSc in Economics & Financial Engineering**
 
-
 📚 **Relevant Courses:** Macroeconomics, Statistics, Computer Science for Finance (Python, R, SQL, VBA)
 
 ## 💡 Personal Projects  
