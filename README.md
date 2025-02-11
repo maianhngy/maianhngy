@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mai-Anh Nguyen Vu
+# 👋 Hi, I'm Mai Anh Nguyen-Vu
 
 📍 **Paris, France**  
 📧 **maianhngy@gmail.com**  
