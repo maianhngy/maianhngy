@@ -10,7 +10,7 @@
 📚 **Relevant Courses:** Macroeconomics, Statistics, Computer Science for Finance (Python, R, SQL, VBA)
 
 ## 💡 Personal Projects  
-**JPMorgan Chase & Co Quantitative Researcher Forage ** *(Jan 2025 - Feb 2025)*  
+**JPMorgan Chase & Co Quantitative Researcher Forage**  
 🔍 **Quantitative Finance & Data Analysis Simulation**  
 
 ## 🎭 Activities  
