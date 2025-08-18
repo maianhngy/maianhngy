@@ -6,8 +6,8 @@
 
 ## 🎓 Education  
 **Paris-Dauphine University - PSL** <br>
-🎓 **MSc in Financial Markets (203)** *(2022 - 2025)*  
-📚 **Relevant Courses:** Stochastic Calculus, Financial Derivatives, Fixed Income, Computer Science for Finance (Python, R, SQL, VBA)
+🎓 **MSc in Financial Markets (203)** *(2025 - 2027)*  
+📚 **Relevant Courses:** Stochastic Calculus, Financial Derivatives, Fixed Income, Computer Science for Finance (Python, R, SQL, VBA) <br>
 🎓 **BSc in Economics & Financial Engineering** *(2022 - 2025)*  
 📚 **Relevant Courses:** Macroeconomics, Statistics, Econometrics, Computer Science for Finance (Python, R, SQL, VBA)
 
