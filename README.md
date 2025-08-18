@@ -5,8 +5,10 @@
 💼 [LinkedIn](https://www.linkedin.com/in/mai-anh-nguyen-vu-4042562a0/)
 
 ## 🎓 Education  
-**Paris-Dauphine University - PSL** *(2022 - 2025)*  
-🎓 **BSc in Economics & Financial Engineering**<br> *(2022 - 2025)*  
+**Paris-Dauphine University - PSL** 
+🎓 **MSc in Financial Markets (203)** *(2022 - 2025)*  
+📚 **Relevant Courses:** Stochastic Calculus, Financial Derivatives, Fixed Income, Computer Science for Finance (Python, R, SQL, VBA)
+🎓 **BSc in Economics & Financial Engineering** *(2022 - 2025)*  
 📚 **Relevant Courses:** Macroeconomics, Statistics, Econometrics, Computer Science for Finance (Python, R, SQL, VBA)
 
 ## 💡 Personal Projects  
