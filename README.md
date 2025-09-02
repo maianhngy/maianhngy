@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mai Anh Nguyen-Vu
+# 👋 Hi, I'm Mai-Anh NGUYEN VU
 
 📍 **Paris, France**  
 📧 **maianhngy@gmail.com**  
@@ -16,7 +16,7 @@
 🔍 **Quantitative Finance & Data Analysis Simulation**  
 
 ## 🎭 Activities  
-**Asian Society – Dasian** *(Apr 2022 - Apr 2024)*  
+**Asian Society – Dasian** *(September 2022 - Apr 2025)*  
 
 ---  
 🚀 Passionate about **finance, data analysis, and quantitative research**! Open to new opportunities & collaborations, I'm sharing my work and improvements !
